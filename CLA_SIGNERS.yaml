@@ -140,6 +140,9 @@ companies:
       - name: Jonas Lipp
         email: jli@scaling.ch
         github: jolipp
+      - name:
+        email:
+        github:
 
   - name: Amazon
     people:
@@ -171,6 +174,7 @@ companies:
       - name: Ryan Meyer
         email: ryanmeye@amazon.com
         github: ryan1234
+      -
 
   - name: Centrifuge
     people:
